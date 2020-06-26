@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(122, 162, 199);
+    color: rgb(222, 223, 224);
+}
+div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    color: rgb(222, 223, 224);
+    padding: 5px;
+    font-weight: normal;
+}
+button{
+    border: 2px rgb(222, 223, 224) solid ;
+    background-color: transparent;
+    color: rgb(222, 223, 224);
+    padding: 5px;
+    letter-spacing: 0.2em;
+    font-weight: bold;
+}
+#output{
+    color: rgb(222, 223, 224);
+    padding: 5px;
+    letter-spacing: 0.1em;
+    font-weight: normal;
+}
